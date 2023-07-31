@@ -1,5 +1,138 @@
 {
-  "profile": {},
-  "experiences": [],
-  "projects": []
+  "profile": {
+    "headline": "👋 Olá! Meu nome é Guilherme, um desenvolvedor apaixonado por explorar o universo dos códigos e encarar desafios.",
+    "links": [
+      {
+        "type": "github",
+        "title": "GitHub",
+        "url": "https://github.com/guipmdev"
+      },
+      {
+        "type": "linkedin",
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/in/guilhermeprevedamilek"
+      },
+      {
+        "type": "email",
+        "title": "E-mail",
+        "url": "mailto:guipm.dev@gmail.com"
+      }
+    ]
+  },
+  "about": [
+    "Com experiência em React.js, Node.js, TypeScript, Express.js e PostgreSQL, e sempre buscando seguir as melhores práticas de programação para oferecer resultados de alta qualidade.",
+    "Acredito que não sou apenas um digitador de códigos, mas um criador de soluções. Atualmente, estou em busca de novas oportunidades que me permitam aplicar minha paixão pela programação e meu compromisso em oferecer soluções inovadoras.",
+    "Se você está à procura um programador criativo, orientado a resultados e com habilidades interpessoais sólidas, estou pronto para embarcar em novos desafios e criar algo extraordinário. Vamos juntos desbravar novos horizontes nesse universo da programação!"
+  ],
+  "experiences": [
+    {
+      "id": "1",
+      "startMonthYear": {
+        "month": 3,
+        "year": 2022
+      },
+      "endMonthYear": {
+        "month": 1,
+        "year": 2023
+      },
+      "title": "Instrutor M2 Junior",
+      "companyName": "Kenzie Academy Brasil",
+      "link": "https://kenzie.com.br",
+      "location": {
+        "countryCode": "BR",
+        "postalCode": "89506505"
+      },
+      "locationName": "Remota",
+      "description": [
+        "• Orientação prática de HTML, CSS e JS avançados, e POO, bem como melhoria de conteúdos relacionados;",
+        "• Aplicação de entrevistas técnicas que avaliam o conhecimento do dev;",
+        "• Auxílio de alunos com dúvidas técnicas em atividades e projetos, e correção dessas avaliações;",
+        "• Gestão de monitores e turmas do segundo módulo."
+      ],
+      "additionalLinks": null,
+      "skills": [
+        "Desenvolvimento de front-end",
+        "Liderança",
+        "Gestão de equipes",
+        "Entrevistas",
+        "Google Apps Script",
+        "Planilhas Google"
+      ]
+    },
+    {
+      "id": "2",
+      "startMonthYear": {
+        "month": 1,
+        "year": 2023
+      },
+      "endMonthYear": {
+        "month": 6,
+        "year": 2023
+      },
+      "title": "Instrutor M4 Pleno",
+      "companyName": "Kenzie Academy Brasil",
+      "link": "https://kenzie.com.br",
+      "location": {
+        "countryCode": "BR",
+        "postalCode": "89506505"
+      },
+      "locationName": "Remota",
+      "description": [
+        "• Orientação prática de Node.js, Express e integração com bancos de dados PostgreSQL, bem como melhoria de conteúdos relacionados;",
+        "• Aplicação de entrevistas técnicas e auxílio de alunos com dúvidas técnicas em atividades e projetos, além da correção dessas avaliações;",
+        "• Sugestão e melhorias de processos rotineiros dos instrutores.",
+        "• Gestão de monitores e turmas do quarto módulo."
+      ],
+      "additionalLinks": null,
+      "skills": ["PostgreSQL", "TypeORM", "Node.js", "TypeScript", "API REST"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "imagePath": "/images/borarachar.jpeg",
+      "title": "BoraRachar",
+      "link": "https://www.borarachar.com.br",
+      "description": [
+        "Aplicação construída em equipe no final do módulo de React da Kenzie Academy Brasil, comprovando todo o conhecimento adquirido.",
+        "A missão principal era consumir uma API JSON Server, mas decidimos ir além, construindo uma API Node antes mesmo de estudar sobre!"
+      ],
+      "additionalLinks": [
+        {
+          "type": "github",
+          "title": "Repositório",
+          "url": "https://github.com/guipmdev/capstone-m3-borarachar"
+        },
+        {
+          "type": "figma",
+          "title": "Figma",
+          "url": "https://www.figma.com/file/7dStA4hOO7fW3WMn9BjVEp/Capstone-M3"
+        }
+      ],
+      "tags": ["React.js", "Styled-components", "Figma", "Node.js"]
+    },
+    {
+      "id": "2",
+      "imagePath": "/images/borarachar.jpeg",
+      "title": "guipm.dev",
+      "link": "https://guipm.dev",
+      "description": [
+        "Site pessoal desenvolvido com NextJS e uma API JSON Server para fornecimento das informações.",
+        "Uma mescla de dois sites que me inspirei muito, trazendo elegância e dinâmica ao conteúdo apresentado!"
+      ],
+      "additionalLinks": [
+        {
+          "type": "github",
+          "title": "Repositório",
+          "url": "https://github.com/guipmdev/guipm.dev"
+        },
+        {
+          "type": "figma",
+          "title": "Figma",
+          "url": "https://www.figma.com/file/HjCbKGCHj9xffchp1dNpy0/Personal-website-V1"
+        }
+      ],
+      "tags": ["Next.js", "Panda CSS", "Figma", "JSON Server"]
+    }
+  ]
 }
