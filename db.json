@@ -13,6 +13,11 @@
         "url": "https://www.linkedin.com/in/guilhermeprevedamilek"
       },
       {
+        "type": "youtube",
+        "title": "YouTube",
+        "url": "https://www.youtube.com/@guipmdev"
+      },
+      {
         "type": "email",
         "title": "E-mail",
         "url": "mailto:guipm.dev@gmail.com"
