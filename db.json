@@ -1,6 +1,6 @@
 {
   "profile": {
-    "headline": "Desenvolvedor Full Stack | React.js | Node.js | TypeScript | PostgreSQL | Next.js",
+    "headline": "Desenvolvedor Full Stack | Desenvolvedor Web | React.js | Node.js | TypeScript | PostgreSQL | Next.js | Desenvolvimento de Sites | Área Educacional",
     "bio": "👋 Olá! Meu nome é Guilherme, um desenvolvedor apaixonado por explorar o universo dos códigos e encarar desafios.",
     "links": [
       {
@@ -50,10 +50,9 @@
       },
       "locationName": "Remota",
       "description": [
-        "• Orientação prática de HTML, CSS e JS avançados, e POO, bem como melhoria de conteúdos relacionados;",
-        "• Aplicação de entrevistas técnicas que avaliam o conhecimento do dev;",
-        "• Auxílio de alunos com dúvidas técnicas em atividades e projetos, e correção dessas avaliações;",
-        "• Gestão de monitores e turmas do segundo módulo."
+        "- Orientação prática de HTML, CSS e JS avançados, e POO, bem como melhoria de conteúdos relacionados, além da aplicação de entrevistas técnicas que avaliam o conhecimento do dev.",
+        "- Auxílio de alunos com dúvidas técnicas em atividades e projetos, e correção dessas avaliações.",
+        "- Gestão de monitores e turmas do segundo módulo."
       ],
       "additionalLinks": null,
       "skills": [
@@ -84,10 +83,14 @@
       },
       "locationName": "Remota",
       "description": [
-        "• Orientação prática de Node.js, Express e integração com bancos de dados PostgreSQL, bem como melhoria de conteúdos relacionados;",
-        "• Aplicação de entrevistas técnicas e auxílio de alunos com dúvidas técnicas em atividades e projetos, além da correção dessas avaliações;",
-        "• Sugestão e melhorias de processos rotineiros dos instrutores.",
-        "• Gestão de monitores e turmas do quarto módulo."
+        "- Responsável pela orientação prática de Node.js, TypeScript, Express e integração com bancos de dados PostgreSQL, atuando na prestação de suporte individual aos alunos com dúvidas técnicas em geral.",
+        "- Gestão eficiente dos monitores do quarto módulo, fornecimento de feedbacks constante sobre os processos rotineiros da equipe de ensino e sobre os próprios alunos, visando tomadas de decisões.",
+        "- Auxílio a todos os desenvolvedores quando necessário e aplicação de melhorias constante dos conteúdos do módulo a cada nova iteração de turma, incluindo gravação de videoaulas.",
+        "- Gerenciamento de processos de HTML, CSS e JavaScript, controle de introdução em Programação Orientada a Objetos (POO) e aplicação de entrevistas técnicas para avaliação do Dev durante o módulo.",
+        "",
+        "🏆 Criação de um serviço web (API) que realizava a extração de boletins da plataforma usada, para a distribuição do conteúdo do curso (Canvas), sendo utilizado como desejasse.",
+        "🏆 Desenvolvimento de um curso de curta duração sobre como construir uma API em JAVA, visando as entrevistas de emprego e introdução a tecnologia.",
+        "🏆 Produção de conteúdo em vídeo, visando o suporte no entendimento dos alunos com relação aos conteúdos que era inicialmente em texto."
       ],
       "additionalLinks": null,
       "skills": ["PostgreSQL", "TypeORM", "Node.js", "TypeScript", "API REST"]
